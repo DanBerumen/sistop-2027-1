@@ -1,0 +1,55 @@
+#+title: Exposiciones frente al grupo
+#+author: Gunnar Wolf
+
+* Calendario de exposiciones
+  La evaluación de las exposiciones sigue los criterios descritos en
+  la última sección de este archivo (/Criterios de evaluación grupal/
+  y /por el docente/).
+
+  |---------+--------+---------------+---------+--------------+--------------|
+  | *Fecha* | *Tema* | *Integrantes* | *Video* | *Documentos* | *Evaluación* |
+  |---------+--------+---------------+---------+--------------+--------------|
+  |---------+--------+---------------+---------+--------------+--------------|
+  #+TBLFM: 
+
+* Rúbrica de evaluación
+
+  La evaluación de la exposición considera factores tanto de la calidad
+  del material desarrollado como de la forma en que se presenta al
+  grupo, como puede apreciarse en la siguiente tabla.
+
+  Toda exposición se evaluará considerando como requisitos
+  indispensables:
+
+  - El material presentado debe ser desarrollado íntegramente por el o
+    los alumnos expositores (con citas textuales indicadas expresamente)
+    o será descalificado.
+  - La elección de tema y fecha deben ser acordadas previamente con el
+    profesor, con no menos de dos semanas de anticipación.
+
+  La exposición ante el grupo constará de dos calificaciones: Un 70%
+  asignado por el profesor, y un 30% proveniente de evaluación grupal en
+  que los compañeros presentes en la sesión evalúen cuantitativamente y
+  de forma anónima.
+
+** Criterios de evaluación grupal
+
+   - Originalidad
+   - Nivel adecuado
+   - Relevancia
+   - Claridad en la presentación
+   - Presencia
+
+   Los compañeros tendrán también un campo para hacer comentarios en
+   formato libre al ponente.
+
+** Criterios de evaluación por el docente
+
+| Criterio                                | Excelente (100%)                                                                                               | Satisfactorio (70%)                                                                                       | Deficiente (40% o menos)                                                       | Peso |
+|-----------------------------------------+----------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------+------|
+| *1. Contenido Técnico y Profundidad*    | Explica conceptos clave con precisión, usa 3+ ejemplos técnicos bien desarrollados y relaciona con la materia. | Explicaciones correctas pero poco profundas, usa 1-2 ejemplos sin mucho análisis.                         | Definiciones imprecisas, sin ejemplos técnicos o sin relación con la materia.  |  30% |
+| *2. Fuentes Bibliográficas*             | 3+ fuentes formales (investigación, libros académicos), bien citadas y analizadas.                             | 1-2 fuentes formales con referencias parciales o poco integradas.                                         | Fuentes no formales predominan o falta citar adecuadamente.                    |  15% |
+| *3. Organización*                       | Introducción, desarrollo y conclusión bien definidas; información fluida y lógica.                             | Presenta estructura pero con fallas en la secuencia o transiciones.                                       | Desorden, falta alguna sección clave o sin lógica clara.                       |  15% |
+| *4. Comunicación Oral y Uso del Tiempo* | Habla con fluidez, volumen y ritmo adecuados; usa términos precisos; no lee guion; exposición dura 15-20 min.  | Dicción aceptable, lee ocasionalmente, términos técnicos poco explicados; tiempo entre 12-15 o 20-23 min. | Lee constantemente, voz poco clara, mal uso de términos; tiempo <12 o >23 min. |  25% |
+| *5. Uso de Recursos Visuales*           | Diapositivas y gráficos claros, bien diseñados y relevantes para la exposición.                                | Uso de recursos con fallos en claridad o diseño; algo de sobrecarga de texto.                             | No usa recursos o estos son confusos y poco útiles.                            |  15% |
+|-----------------------------------------+----------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------+------|
